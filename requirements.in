@@ -15,3 +15,4 @@ django-healthchecks
 redis
 sentry-sdk
 Pillow
+psycopg2-binary
